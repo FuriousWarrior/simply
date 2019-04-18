@@ -1,7 +1,7 @@
 # Simply free theme for [Ghost](https://github.com/tryghost/ghost/)
 
 [![Ghost version](https://img.shields.io/badge/Ghost-2.x-brightgreen.svg)](https://github.com/TryGhost/Ghost)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/godofredoninja)
 
 > *Simple and Elegant Theme*
 
@@ -10,7 +10,7 @@ It is available for free so you can use on your site. It is strictly forbidden t
 
 ## 🙏 Please, help me with a small donation [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url) or [PayPal](https://www.paypal.me/godofredoninja). It'll help motivate me to update the theme with many improvements
 
-[![donate](./donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7UB5Q8GVN3HN&source=url)
+[![donate](./donate.gif)](https://www.paypal.me/godofredoninja)
 
 ![Simply free theme for ghost](./screenshot.jpg)
 
@@ -55,38 +55,26 @@ You can see Simply in action on my Page [Demo](https://goo.gl/V7moIY)
 
 ## Navigation
 
-- [Simply free theme for Ghost](#simply-free-theme-for-ghost)
-  - [🙏 Please, help me with a small donation here or PayPal. It'll help motivate me to update the theme with many improvements](#-please-help-me-with-a-small-donation-here-or-paypal-itll-help-motivate-me-to-update-the-theme-with-many-improvements)
-  - [Demo](#demo)
-  - [Featured](#featured)
-  - [Navigation](#navigation)
-  - [Web Browser Support for Simply](#web-browser-support-for-simply)
-  - [Ghost Settings](#ghost-settings)
-  - [Simply Settings](#simply-settings)
-    - [Social Media Links](#social-media-links)
-    - [YouTube Subscribe Button](#youtube-subscribe-button)
-    - [Instagram](#instagram)
-    - [Comments](#comments)
-    - [Search](#search)
-      - [Setup a Custom integration](#setup-a-custom-integration)
-  - [Theme Translation](#theme-translation)
-  - [AMP](#amp)
-  - [Home Page](#home-page)
-  - [Post Format](#post-format)
-  - [Tags Page](#tags-page)
-  - [Newsletter Page](#newsletter-page)
-  - [Podcast Page](#podcast-page)
-  - [Ads](#ads)
-  - [Change Theme Color](#change-theme-color)
-  - [Tracking Google Tag Mananger](#tracking-google-tag-mananger)
-    - [Settings Google Tag Mananger](#settings-google-tag-mananger)
-      - [First we'll create triggers](#first-well-create-triggers)
-      - [Second we'll create Tag](#second-well-create-tag)
-      - [Third Insert code](#third-insert-code)
-  - [Warning - Note - Success](#warning---note---success)
-    - [PrismJS code syntax](#prismjs-code-syntax)
-    - [Credits](#credits)
-  - [Copyright & License](#copyright--license)
+- [Web Browser Support for Simply](#web-browser-support-for-simply)
+- [Ghost Settings](#ghost-settings)
+- [Simply Settings](#simply-settings)
+  - [Social Media Links](#social-media-links)
+  - [YouTube Subscribe Button](#youtube-subscribe-button)
+  - [Instagram](#instagram)
+  - [Comments](#comments)
+  - [Search](#search)
+- [Theme Translation](#theme-translation)
+- [AMP](#amp)
+- [Home Page](#home-page)
+- [Post Format](#post-format)
+- [Tags Page](#tags-page)
+- [Newsletter Page](#newsletter-page)
+- [Podcast Page](#podcast-page)
+- [Ads](#ads)
+- [Change Theme Color](#change-theme-color)
+- [Tracking Google Tag Mananger](#tracking-google-tag-mananger)
+- [Warning - Note - Success](#warning---note---success)
+- [PrismJS code syntax](#prismjs-code-syntax)
 
 ## Web Browser Support for Simply
 

@@ -1,4 +1,4 @@
-# Simply free theme for [Ghost](https://github.com/tryghost/ghost/)
+# Simply free theme for [Ghost](https://github.com/tryghost/ghost/) with Russian localization 
 
 [![Ghost version](https://img.shields.io/badge/Ghost-2.x-brightgreen.svg)](https://github.com/TryGhost/Ghost)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/godofredoninja)
